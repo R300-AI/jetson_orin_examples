@@ -81,9 +81,9 @@ cd jetson_orin_examples
     - Search for and install the Python extension
     - Search for and install the Jupyter extension
 
-<img src="https://github.com/R300-AI/jetson_orin_examples/5g_analysis/src/images/python_extension.png" width="450px"></img>
+<img src="src/images/python_extension.png" width="450px"></img>
 
-<img src="https://github.com/R300-AI/jetson_orin_examples/5g_analysis/src/images/python_extension.png" width="450px"></img>
+<img src="src/images/jupyter_extension.png" width="450px"></img>
 
 1. Open your project folder in VSCode:
 
